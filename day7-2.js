@@ -76,7 +76,6 @@ rl
     let iterations = 0;
     let working = true;
 
-    debugger;
     while (working) {
       working = false;
       for (let i = 0; i < WC; i += 1) {
